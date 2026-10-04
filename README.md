@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## usage
 
 The --dry-run flag shows what would happen without placing any bids. Use it.
+
+<!-- checked: 2026-10-04 -->
