@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 The --dry-run flag shows what would happen without placing any bids. Use it.
 
-<!-- checked: 2026-11-04 -->
+<!-- checked: 2026-11-05 -->
